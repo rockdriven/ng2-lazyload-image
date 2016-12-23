@@ -47,7 +47,7 @@
     "@angular/router": "^3.0.2",
     "@types/core-js": "^0.9.32",
     "@types/mocha": "^2.2.31",
-    "@types/node": "^6.0.38",
+    "@types/node": "^6.0.53",
     "awesome-typescript-loader": "^2.2.4",
     "core-js": "^2.4.1",
     "electron-prebuilt": "^1.4.3",
